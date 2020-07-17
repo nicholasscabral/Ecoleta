@@ -1,0 +1,17 @@
+.footer a {
+    color: #34cd79;
+    transition: 200ms;
+}
+.footer a:hover {
+    color: #551a8b;
+}
+
+.footer {
+    text-align: center;
+    font-size: 20px;
+
+    padding: 20px 0px 20px;
+    margin-bottom: 10px;
+
+}
+
