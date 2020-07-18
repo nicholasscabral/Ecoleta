@@ -1,6 +1,10 @@
-<h1>Ecoleta</h1>
-<p>
+<p align="center">
+  <img width="300" height="73" src="https://user-images.githubusercontent.com/63978033/87861137-bd914100-c919-11ea-9218-0de383e6475d.png">
+</p>
 
+<h2> Description </h2>
+
+<p>
   A application developed with the idea of ​​facilitating the recycling
   process, allowing the user to register and consult collection points
 </p>
