@@ -112,6 +112,6 @@ server.get("/search", (req, res) => {
 
 
 //ligar o servidor + mensagem de que ta funcionando 
-server.listen(80, () =>
+server.listen(4000, () =>
   console.log("Servidor iniciado/reiniciado...")
 );
